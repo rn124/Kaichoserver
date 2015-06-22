@@ -1,0 +1,165 @@
+
+◆基本方針
+　本サーバはサバイバルに慣れていない人が気軽にサバイバルができるように、
+　そして他鯖でも健全に遊べるようにマナーを身に着けることを目的として建てられたサーバーです。
+　
+◆禁止事項
+　以下の禁止事項に反する行為が確認出来次第、処罰若しくはMOBの処分等の対応が行われます。
+　
+　・Hackclient又はそれに準ずるアカウント、及び外部ツールの使用
+　・スパム行為
+　・卑猥な発言
+　・卑猥 / 暴力的なスキン・ユーザーネームの使用
+　・特定の個人若しくは集団を誹謗中傷し、名誉を傷つける行為
+　・他サーバの広告・勧誘などの宣伝にあたる行為
+　・サーバに故意に負荷をかける行為
+　・許可されていないMODを導入してサーバに接続する行為
+　・他プレイヤーの迷惑となる係争行為
+　・ラグ・バグの意図的な使用
+　・過度なReportの使用及び連続使用
+　・他プレイヤーを許可なくkillする行為
+　・MOBの飼育は面積の半分以下にしてください。
+　・その他運営が認める荒らし・迷惑・不適切行為
+　
+◆使用可能MOD
+　当サーバでは下記のMODが使用可能です。
+　
+　[前提MOD]
+　・MinecraftForge
+　・Liteloader
+　・bspkrsCore
+　
+　[描画・処理]
+　・Optifine
+　・Water Shader
+　・GLSL Shaders MOD
+　
+　[言語拡張]
+　・NihongoMOD
+　・IntelliInput
+　・美咲フォント
+　・BitmapFont
+　・MinecraftIM
+　・BouyomichanMOD
+　
+　[情報表示]
+　・Rei's minimapMOD
+　・Zan's minimapMOD
+　・StatusEffectHUD
+　・ArmorStatusHUD
+　
+　[その他]
+　・ToggleSneak
+　・MOBやプレイヤーの体力を表示するMOD全般
+　
+◆使用を許可しないMOD
+　上に挙げた以外のMODは全て使用が許可されていませんが、その中でも以下のものを
+　特に許可しないものとします。但し、Moderator以上の運営スタッフにおいてはこの限りではありません。
+　
+　・PlayerAPI
+　・SmartMoving
+　・GammaBright
+　
+◆処罰について
+　当サーバでは5段階の処罰制度が適用されています。
+　
+　*　　第一段階 Warn / 警告
+　** 　第二段階 Kick / キック
+　***　第三段階 1 day BAN / 期限BAN（1日）
+　***  第四段階 7 days BAN / 期限BAN（7日）
+　　　 第五段階 Permanent BAN / 無期限BAN
+　　　 
+　　　 ※第一段階の前にMuteやJail（投獄）の処罰が行われる場合があります。
+　　　 ※*は7日間につき1個自動消滅します。（プレイ時間ではありません）
+　　　 
+◆コマンド
+　/chairs [on|off]　　　　　階段ブロックに座るかどうかを設定します。[D]
+　/fw　　　　　　　　　 　  花火を打ち上げます。[D]
+　/afk　　　　　　　　　　　AFK(放置)モードにセットします。
+　/report [Player] [内容] 　運営に報告します。（荒らし・不具合等）
+　/hat　　　　　　　　　　  手に持っているブロックを頭にかぶります。
+　
+◆[Def] について
+　このprefixはログインして間もないプレイヤーに付与されます。
+　デフォルトプレイヤーという意味を持ち、荒らし対策のため一部機能が使用できません。
+　このページで[D]がついている機能の他、一部機能の使用ができません。
+　ログインして1~2日程度でAdminによりメンバープレイヤー（一般プレイヤー）になります。
+　
+◆LWC
+　
+◆スタッフ
+　◇Owner (白*)
+　　・Kaicho77
+　
+　◇Administrator (紫*)
+　　・Kaicho77
+　　
+　◇Developer (マゼンタ*)
+　
+　◇Moderator (青*)
+　　・rn01_24
+　　
+　◇MiniModerator (水色*)
+　
+◆特別な階級
+　◇AnyServerAdmin (緑*)
+　
+　◇AnyServerBuilder (黄緑*)
+　　・rn01_24
+　
+　◇Builder (オレンジ*)
+　
+　◇BuildHelper (黄色*)
+　
+　※階級のアスタリスクはAdminにより付与されます。
+　　自分に該当する階級がある場合はAdminにお声掛けください。
+
+◆導入プラグイン
+　当サーバでは2015/6/23現在、以下のプラグインが導入されています。
+　
+　・CoreProtect
+　・MemoryChecker
+　・JustAFK
+　・Worldedit
+　・ColoredSigns
+　・HealthBar(機能していません)
+　・NoRain
+　・HypixelFirework
+　・OpenInv
+　・BarAPI
+　・Thrower
+　・PluginManager
+　・Fly
+　・Chairs
+　・EditServerMessage
+　・Modifyworld
+　・NametagEdit
+　・CallAdmin(機能していません)
+　・BossBarPro
+　・TagAPI
+　・WorldGuard
+　・AutoSaveWorld
+　・MyItems
+　・LegendaryRestart
+　・RespawnSkipper
+　・Launchpads
+　・MaxBans
+　・BossBarMessage
+　・PermissionEx
+　・RemoteController
+　・TreeAssist
+　・SuperVanish
+　・Hats
+　・MultiDDNSPlugin
+　・Vault
+　・Corereport
+　・EnderChestControl
+　・LEgendaryMessages
+　・Clickwarp
+　・Jail
+　・LWC
+　・CommandSigns
+　・SimpleVirtualWorkBench
+　・ChestCommands
+　・LunaChat
+　・ServerSigns
